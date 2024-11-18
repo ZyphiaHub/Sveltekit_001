@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="../favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link href="../_app/immutable/assets/0.Bsn4zPpl.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/3.ZFMWBfjP.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.tO49YQ02.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/entry.BkPylU4M.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/scheduler.CszMd_qe.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.C9RZqJXW.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.D81-kjlx.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.B2ovvTLf.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.d5ageELT.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/3.5qpih04X.js">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">     <nav class="svelte-zcijlt" data-svelte-h="svelte-1gi5vyq"><ul class="svelte-zcijlt"><li class="svelte-zcijlt"><a href="/" class="svelte-zcijlt">Kezdőlap</a></li> <li class="svelte-zcijlt"><a href="/menu" class="svelte-zcijlt">Heti Menü</a></li> <li class="svelte-zcijlt"><a href="/ingredients" class="svelte-zcijlt">Összetevők</a></li> <li class="svelte-zcijlt"><a href="/recipes" class="svelte-zcijlt">Receptek</a></li> <li class="svelte-zcijlt"><a href="/add-recipe" class="svelte-zcijlt">Új recept</a></li></ul> </nav> <h1 data-svelte-h="svelte-llc9xo">Add a New Recipe</h1> <form class="svelte-6efcxf"><div class="form-group svelte-6efcxf"><label class="svelte-6efcxf" data-svelte-h="svelte-8zog1g">Recipe Title</label> <input type="text" required class="svelte-6efcxf" value=""></div> <div class="form-group svelte-6efcxf"><label class="svelte-6efcxf" data-svelte-h="svelte-yaz8sq">Description</label> <textarea class="svelte-6efcxf"></textarea></div> <div class="form-group svelte-6efcxf"><label class="svelte-6efcxf" data-svelte-h="svelte-1roj1gw">Ingredients (comma-separated)</label> <input type="text" required class="svelte-6efcxf" value=""></div> <div class="form-group svelte-6efcxf"><label class="svelte-6efcxf" data-svelte-h="svelte-17joo3s">Image URL</label> <input type="url" class="svelte-6efcxf" value=""></div> <div class="form-group svelte-6efcxf"><label class="svelte-6efcxf" data-svelte-h="svelte-yvprin">Tags (comma-separated)</label> <input type="text" class="svelte-6efcxf" value=""></div> <button type="submit" class="svelte-6efcxf" data-svelte-h="svelte-1wune54">Add Recipe</button> </form> 
+			
+			<script>
+				{
+					__sveltekit_i2g32v = {
+						base: new URL("..", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.tO49YQ02.js"),
+						import("../_app/immutable/entry/app.D81-kjlx.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 3],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

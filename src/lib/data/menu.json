@@ -1,0 +1,74 @@
+{
+  "menu": [
+    {
+      "day": "Hétfő",
+      "recipes": [
+        "Palacsinta",
+        "",
+        "",
+        "Lecsó",
+        "Gyümölcssaláta"
+      ]
+    },
+    {
+      "day": "Kedd",
+      "recipes": [
+        "Almás pite",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "day": "Szerda",
+      "recipes": [
+        "Lecsó",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "day": "Csütörtök",
+      "recipes": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "day": "Péntek",
+      "recipes": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "day": "Szombat",
+      "recipes": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "day": "Vasárnap",
+      "recipes": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

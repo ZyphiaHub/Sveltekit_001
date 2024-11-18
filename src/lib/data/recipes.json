@@ -1,0 +1,154 @@
+[
+  {
+    "id": "001",
+    "title": "Almás pite",
+    "description": "Egy finom almás pite receptje.",
+    "ingredients": [
+      "Alma",
+      "Liszt",
+      "Vaj",
+      "Cukor"
+    ],
+    "instructions": "Keverd össze az alapanyagokat...",
+    "image": "/images/almas_pite.png",
+    "tags": [
+      "desszert",
+      "gyümölcsös",
+      "sütemény"
+    ],
+    "kalória_adagonként": 250,
+    "fehérje_adagonként": 3,
+    "szh_adagonként": 30,
+    "zsír_adagonként": 12
+  },
+  {
+    "id": "002",
+    "title": "Csirkepaprikás",
+    "description": "Magyaros csirkepaprikás nokedlivel.",
+    "ingredients": [
+      "Csirke",
+      "Paprika",
+      "Hagyma",
+      "Tejföl"
+    ],
+    "instructions": "Főzd meg a csirkét, és add hozzá a paprikát...",
+    "image": "/images/csirkepaprikas.png",
+    "tags": [
+      "főétel",
+      "magyar",
+      "csirke"
+    ],
+    "kalória_adagonként": 450,
+    "fehérje_adagonként": 30,
+    "szh_adagonként": 10,
+    "zsír_adagonként": 25
+  },
+  {
+    "id": "003",
+    "title": "Gyümölcssaláta",
+    "description": "Frissítő és egészséges gyümölcssaláta.",
+    "ingredients": [
+      "Alma",
+      "Banán",
+      "Narancs",
+      "Szőlő"
+    ],
+    "instructions": "Vágd fel a gyümölcsöket és keverd össze...",
+    "image": "/images/gyumolcssalata.png",
+    "tags": [
+      "saláta",
+      "egészséges",
+      "gyümölcsös"
+    ],
+    "kalória_adagonként": 120,
+    "fehérje_adagonként": 1,
+    "szh_adagonként": 28,
+    "zsír_adagonként": 0.5
+  },
+  {
+    "id": "004",
+    "title": "Lecsó",
+    "description": "Hagyományos magyar lecsó recept.",
+    "ingredients": [
+      "Paprika",
+      "Paradicsom",
+      "Hagyma",
+      "Olaj"
+    ],
+    "instructions": "Süsd meg a hagymát, és add hozzá a paprikát...",
+    "image": "/images/lecso.png",
+    "tags": [
+      "főétel",
+      "magyar",
+      "vegetáriánus"
+    ],
+    "kalória_adagonként": 180,
+    "fehérje_adagonként": 2,
+    "szh_adagonként": 15,
+    "zsír_adagonként": 10
+  },
+  {
+    "id": "005",
+    "title": "Palacsinta",
+    "description": "Klasszikus palacsinta recept.",
+    "ingredients": [
+      "Liszt",
+      "Tojás",
+      "Tej",
+      "Cukor"
+    ],
+    "instructions": "Keverd össze a hozzávalókat és süsd meg a palacsintákat...",
+    "image": "/images/palacsinta.png",
+    "tags": [
+      "desszert",
+      "magyar",
+      "sütemény"
+    ],
+    "kalória_adagonként": 210,
+    "fehérje_adagonként": 5,
+    "szh_adagonként": 25,
+    "zsír_adagonként": 8
+  },
+  {
+    "id": "006",
+    "title": "Sütőtök krémleves",
+    "description": "Őszi sütőtök krémleves recept.",
+    "ingredients": [
+      "Sütőtök",
+      "Hagyma",
+      "Tejszín",
+      "Fűszerek"
+    ],
+    "instructions": "Főzd meg a sütőtököt, és pürésítsd le...",
+    "image": "/images/sutotok_kremleves.png",
+    "tags": [
+      "leves",
+      "vegetáriánus",
+      "őszi"
+    ],
+    "kalória_adagonként": 150,
+    "fehérje_adagonként": 2,
+    "szh_adagonként": 15,
+    "zsír_adagonként": 7
+  },
+  {
+    "title": "Szendvics",
+    "description": "Rétegelt harapnivaló Sir Sandwich konyhájából",
+    "ingredients": [
+      "Kenyér",
+      "Sonka",
+      "Tojás",
+      "Paradicsom",
+      "Parmezán sajt"
+    ],
+    "image": "/images/szendvics.png",
+    "tags": [
+      "reggeli",
+      "vacsora"
+    ],
+    "kalória_adagonként": 200,
+    "fehérje_adagonként": 30,
+    "szh_adagonként": 50,
+    "zsír_adagonként": 10
+  }
+]
